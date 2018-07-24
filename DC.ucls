@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="org.cloudbus.cloudsim.Log" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Log.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="176" x="509" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.cloudbus.cloudsim.CloudletScheduler" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/CloudletScheduler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="531" width="405" x="1654" y="5183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.cloudbus.cloudsim.HostStateHistoryEntry" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/HostStateHistoryEntry.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="283" x="2416" y="5183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.cloudbus.cloudsim.VmStateHistoryEntry" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/VmStateHistoryEntry.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="277" x="2099" y="5183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.cloudbus.cloudsim.InfoPacket" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/InfoPacket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="873" width="193" x="245" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="org.cloudbus.cloudsim.UtilizationModelPlanetLabInMemory" 
+    project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/UtilizationModelPlanetLabInMemory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="277" x="-20" y="7310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.cloudbus.cloudsim.Datacenter" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Datacenter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="855" width="442" x="1880" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.cloudbus.cloudsim.VmAllocationPolicy" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/VmAllocationPolicy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="303" x="1556" y="991"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="org.cloudbus.cloudsim.VmScheduler" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/VmScheduler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="253" x="1340" y="3982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="org.cloudbus.cloudsim.VmSchedulerTimeShared" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/VmSchedulerTimeShared.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="291" x="986" y="5183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="org.cloudbus.cloudsim.DatacenterCharacteristics" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/DatacenterCharacteristics.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1017" width="479" x="1028" y="1958"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="org.cloudbus.cloudsim.VmAllocationPolicySimple" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/VmAllocationPolicySimple.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="291" x="1547" y="1958"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="org.cloudbus.cloudsim.UtilizationModel" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/UtilizationModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="161" x="745" y="9231"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="org.cloudbus.cloudsim.Cloudlet.Resource" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Cloudlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="140" x="946" y="9231"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="org.cloudbus.cloudsim.Packet" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Packet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="159" x="245" y="991"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="org.cloudbus.cloudsim.CloudletSchedulerTimeShared" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/CloudletSchedulerTimeShared.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="567" width="384" x="2078" y="5754"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="org.cloudbus.cloudsim.VmSchedulerSpaceShared" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/VmSchedulerSpaceShared.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="255" x="1317" y="5183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="org.cloudbus.cloudsim.Consts" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Consts.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="103" x="757" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="org.cloudbus.cloudsim.ParameterException" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/ParameterException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="158" x="933" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="org.cloudbus.cloudsim.Host" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Host.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="927" width="352" x="1614" y="3015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="org.cloudbus.cloudsim.HarddriveStorage" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/HarddriveStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="298" x="2362" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="org.cloudbus.cloudsim.Cloudlet" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Cloudlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1881" width="495" x="946" y="7310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="org.cloudbus.cloudsim.DatacenterBroker" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/DatacenterBroker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="927" width="408" x="946" y="991"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="org.cloudbus.cloudsim.DataCloudTags" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/DataCloudTags.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1485" width="284" x="1165" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="25" language="java" name="org.cloudbus.cloudsim.Storage" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Storage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="219" x="2027" y="991"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="26" language="java" name="org.cloudbus.cloudsim.NetworkTopology" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/NetworkTopology.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="282" x="1523" y="-534"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="org.cloudbus.cloudsim.ResCloudlet" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/ResCloudlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="873" width="217" x="1654" y="6397"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="org.cloudbus.cloudsim.UtilizationModelStochastic" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/UtilizationModelStochastic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="207" x="297" y="7310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="org.cloudbus.cloudsim.HostDynamicWorkload" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/HostDynamicWorkload.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="387" width="438" x="2015" y="3982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="org.cloudbus.cloudsim.File" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/File.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="801" width="201" x="2550" y="991"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="org.cloudbus.cloudsim.FileAttribute" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/FileAttribute.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="801" width="183" x="2550" y="1958"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="org.cloudbus.cloudsim.SanStorage" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/SanStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="224" x="2286" y="991"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="org.cloudbus.cloudsim.CloudletSchedulerDynamicWorkload" 
+    project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/CloudletSchedulerDynamicWorkload.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="621" width="384" x="2078" y="6397"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="org.cloudbus.cloudsim.VmSchedulerTimeSharedOverSubscription" 
+    project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/VmSchedulerTimeSharedOverSubscription.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="281" x="986" y="5754"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="org.cloudbus.cloudsim.Pe" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Pe.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="204" x="1410" y="5754"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="org.cloudbus.cloudsim.UtilizationModelNull" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/UtilizationModelNull.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="161" x="544" y="7310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="org.cloudbus.cloudsim.Vm" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/Vm.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1161" width="305" x="1654" y="3982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="org.cloudbus.cloudsim.CloudletSchedulerSpaceShared" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/CloudletSchedulerSpaceShared.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="603" width="384" x="1654" y="5754"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="org.cloudbus.cloudsim.UtilizationModelFull" project="CloudSimSampleSetup" 
+    file="/CloudSimSampleSetup/sources/org/cloudbus/cloudsim/UtilizationModelFull.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="161" x="745" y="7310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="40">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="41">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="42" name="cloudletWaitingList"/>      
+      <multiplicity id="43" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="45" name="cloudletPausedList"/>      
+      <multiplicity id="46" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="48" name="cloudletFinishedList"/>      
+      <multiplicity id="49" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="50">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="51">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="52" name="stateHistory"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="55" name="hostList"/>      
+      <multiplicity id="56" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <bendpoint x="1868" y="1958"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="58" name="hostList"/>      
+      <multiplicity id="59" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="1602" y="5183"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="61" name="peList"/>      
+      <multiplicity id="62" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="64" name="vmScheduler"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="67">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="68" name="cloudletFinishedList"/>      
+      <multiplicity id="69" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <bendpoint x="934" y="1958"/>    
+    <bendpoint x="934" y="3015"/>    
+    <bendpoint x="934" y="3982"/>    
+    <bendpoint x="934" y="5183"/>    
+    <bendpoint x="934" y="5754"/>    
+    <bendpoint x="934" y="6397"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="71" name="cloudletSubmittedList"/>      
+      <multiplicity id="72" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="74" name="vmAllocationPolicy"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="77">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="78" name="vmList"/>      
+      <multiplicity id="79" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="80">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="81">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="82" name="fileList"/>      
+      <multiplicity id="83" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="85">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="86" name="cloudletExecList"/>      
+      <multiplicity id="87" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <bendpoint x="997" y="1958"/>    
+    <bendpoint x="997" y="3015"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="89" name="vmsCreatedList"/>      
+      <multiplicity id="90" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="92" name="cloudletScheduler"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <bendpoint x="1463" y="991"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="95" name="characteristics"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="98" name="stateHistory"/>      
+      <multiplicity id="99" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="100">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="101">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="102" name="cloudletExecList"/>      
+      <multiplicity id="103" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="105" name="cloudlet"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="107">    
+    <bendpoint x="976" y="1958"/>    
+    <bendpoint x="976" y="3015"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="108" name="vmList"/>      
+      <multiplicity id="109" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="110">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="111" name="storageList"/>      
+      <multiplicity id="112" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="114" name="resList"/>      
+      <multiplicity id="115" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="117" name="attribute"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="120" name="datacenterCharacteristicsList"/>      
+      <multiplicity id="121" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="122">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <generalization id="123">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="124">    
+    <bendpoint x="955" y="1958"/>    
+    <bendpoint x="955" y="3015"/>    
+    <bendpoint x="955" y="3982"/>    
+    <bendpoint x="955" y="5183"/>    
+    <bendpoint x="955" y="5754"/>    
+    <bendpoint x="955" y="6397"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="125" name="cloudletReceivedList"/>      
+      <multiplicity id="126" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="127">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="128" name="cloudletPausedList"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="130">    
+    <bendpoint x="1623" y="3982"/>    
+    <bendpoint x="1623" y="5183"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="131" name="peList"/>      
+      <multiplicity id="132" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="134" name="vmsMigratingIn"/>      
+      <multiplicity id="135" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <bendpoint x="1889" y="1958"/>    
+    <bendpoint x="1889" y="991"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="137" name="datacenter"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="139">    
+    <bendpoint x="913" y="1958"/>    
+    <bendpoint x="913" y="3015"/>    
+    <bendpoint x="913" y="3982"/>    
+    <bendpoint x="913" y="5183"/>    
+    <bendpoint x="913" y="5754"/>    
+    <bendpoint x="913" y="6397"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="140" name="cloudletList"/>      
+      <multiplicity id="141" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="142">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="143">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="144" name="utilizationModelCpu"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="146">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="147">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="148" name="vmTable"/>      
+      <multiplicity id="149" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="150">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <generalization id="151">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="152">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="153" name="utilizationModelBw"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="155">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <generalization id="156">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="157">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="158" name="freePes"/>      
+      <multiplicity id="159" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="160">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="161">    
+    <bendpoint x="1996" y="991"/>    
+    <bendpoint x="1996" y="1958"/>    
+    <bendpoint x="1996" y="3015"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="162" name="vmList"/>      
+      <multiplicity id="163" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="165" name="utilizationModelRam"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="168" name="host"/>      
+      <multiplicity id="169" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
